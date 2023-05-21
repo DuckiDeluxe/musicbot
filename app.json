@@ -1,0 +1,7 @@
+{
+  "name": "DuckiBot",
+  "description": "Player for (most) music platforms",
+  "repository": "youtube.com/@duckideluxe",
+  "logo": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2021/08/rubber-duck-stock-fb.jpg",
+  "keywords": ["discord", "discordjs", "typescript", "music", "bot"]
+}
